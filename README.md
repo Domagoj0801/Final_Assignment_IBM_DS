@@ -1,2 +1,2 @@
-# Final_Assignment_IBM_Data_Science
+# Final_Assignment
 Final project
